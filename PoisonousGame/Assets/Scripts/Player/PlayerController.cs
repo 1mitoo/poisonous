@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     public Animator playerAnimator;
     float input_x = 0;
     float input_y = 0;
-    bool isWalking = false;
+    bool andando = false;
  
     Rigidbody2D rb2D;
     Vector2 movement = Vector2.zero;
@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        isWalking = false; 
+        andando = false; 
         rb2D = GetComponent<Rigidbody2D>(); 
         player = GetComponent<Player>();
     }
@@ -28,16 +28,16 @@ public class PlayerController : MonoBehaviour
     {
         input_x = Input.GetAxisRaw("Horizontal");
         input_y = Input.GetAxisRaw("Vertical");
-        isWalking = (input_x != 0 || input_y != 0);
+        andando = (input_x != 0 || input_y != 0);
         movement = new Vector2(input_x, input_y);
  
-        if (isWalking)
+        if (andando)
         {
             playerAnimator.SetFloat("input_x", input_x);
             playerAnimator.SetFloat("input_y", input_y);
         }
  
-        playerAnimator.SetBool("isWalking", isWalking);
+        playerAnimator.SetBool("andando", andando);
  
         if (Input.GetButtonDown("Fire1"))
             playerAnimator.SetTrigger("attack");

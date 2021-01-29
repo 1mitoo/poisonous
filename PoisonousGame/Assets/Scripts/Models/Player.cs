@@ -33,12 +33,12 @@ public class Player : MonoBehaviour
             Debug.LogError("Você precisa anexar o game manager aqui no player");
             return;
         }    
-        entity.maxHealth = manager.CalculateHealth(this);
-        entity.maxMana = manager.CalculateMana(this);
-        entity.maxStamina = manager.CalculateStamina(this);
+        entity.maxHealth = manager.CalculateHealth(entity);
+        entity.maxMana = manager.CalculateMana(entity);
+        entity.maxStamina = manager.CalculateStamina(entity);
         
-        int dano = manager.CalculateDamage(this, 10); // ser usado no player
-        int defesa = manager.CalculateDefense(this, 5); // ser usado no inimigo
+        int dano = manager.CalculateDamage(entity, 10); // ser usado no player
+        int defesa = manager.CalculateDefense(entity, 5); // ser usado no inimigo
 
         entity.currentHealth = entity.maxHealth;
         entity.currentMana = entity.maxMana;

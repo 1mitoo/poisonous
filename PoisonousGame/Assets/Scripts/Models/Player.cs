@@ -24,6 +24,9 @@ public class Player : MonoBehaviour
     public Slider mana;
     public Slider stamina;
    
+    [Header("Respawn")]
+    public float respawnTime = 5;
+    public GameObject prefab;
     
     void Start()
     {
@@ -58,15 +61,19 @@ public class Player : MonoBehaviour
        
         
     }
-     private void Update() 
+    private void Update()
     {
+        if (entity.dead)
+           return;
+ 
+        if(entity.currentHealth <= 0)
+        {
+           Die();
+        }
+ 
         health.value = entity.currentHealth;
         mana.value = entity.currentMana;
         stamina.value = entity.currentStamina;
- 
-        if(Input.GetKeyDown(KeyCode.Space))
-            entity.currentHealth -= 5;
-           
     }
    
     IEnumerator RegenerarVida()
@@ -115,4 +122,31 @@ public class Player : MonoBehaviour
             }
         }
     }
+
+    void Die()
+    {
+        entity.currentHealth = 0;
+        entity.dead = true;
+        entity.target = null;
+ 
+        StopAllCoroutines();
+        StartCoroutine(Respawn());
+    }
+
+    IEnumerator Respawn()
+    {
+        GetComponent<PlayerController>().enabled = false;
+ 
+        yield return new WaitForSeconds(respawnTime);
+ 
+        GameObject newPlayer = Instantiate(prefab, transform.position, transform.rotation, null);
+        newPlayer.name = prefab.name;
+        newPlayer.GetComponent<Player>().entity.dead = false;
+        newPlayer.GetComponent<Player>().entity.combatCoroutine = false;
+        newPlayer.GetComponent<PlayerController>().enabled = true;
+ 
+        Destroy(this.gameObject);
+    }
+ 
+
 }

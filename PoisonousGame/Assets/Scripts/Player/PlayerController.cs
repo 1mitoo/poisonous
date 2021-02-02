@@ -39,11 +39,17 @@ public class PlayerController : MonoBehaviour
  
         playerAnimator.SetBool("andando", andando);
  
-        if (Input.GetButtonDown("Fire1"))
-            playerAnimator.SetTrigger("attack");
+        
+            if (Input.GetButtonDown("Fire1"))
+            {
+                playerAnimator.SetTrigger("attack");
+            }
+          
     }
  
     private void FixedUpdate() {
         rb2D.MovePosition(rb2D.position + movement * player.entity.speed * Time.fixedDeltaTime);
     }
+
+   
 }

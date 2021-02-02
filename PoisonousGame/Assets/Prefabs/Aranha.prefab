@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 7687601743351286029}
   - component: {fileID: 1388556737176976110}
   - component: {fileID: 5267927284017852219}
-  - component: {fileID: 8656007951741856638}
   - component: {fileID: 8246403548249924631}
   - component: {fileID: 947217268534978455}
-  - component: {fileID: 3048244749137270448}
+  - component: {fileID: 1437043148}
+  - component: {fileID: 1437043147}
   m_Layer: 0
   m_Name: Aranha
   m_TagString: Inimigo
@@ -106,20 +106,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &8656007951741856638
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958089287559}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 23962bb9d53f0e54b95ab861df032bd9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 3048244749137270448}
-  playerAnimator: {fileID: 5267927284017852219}
 --- !u!50 &8246403548249924631
 Rigidbody2D:
   serializedVersion: 4
@@ -167,40 +153,60 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.390625, y: 0.703125}
   m_EdgeRadius: 0
---- !u!114 &3048244749137270448
+--- !u!70 &1437043148
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2474663958089287559}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 1.8, y: 1.8}
+  m_Direction: 0
+--- !u!114 &1437043147
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2474663958089287559}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99ab5e10c4552144bad2b13975d8dbc7, type: 3}
+  m_Script: {fileID: 11500000, guid: aafdbc9b96c6c424499a544b9441c97d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   entity:
-    name: Irineu
+    name: Aranha
     currentHealth: 100
     maxHealth: 100
     currentMana: 100
     maxMana: 100
     currentStamina: 100
     maxStamina: 100
-    strength: 3
-    resistence: 3
-    intelligence: 2
-    forcaVontade: 2
+    strength: 1
+    resistence: 1
+    intelligence: 1
+    forcaVontade: 1
     damage: 1
     defense: 1
-    speed: 1
-  regenHPEnabled: 1
-  regenHPTime: 5
-  regenHPValue: 5
-  regenMPEnabled: 1
-  regenMPTime: 10
-  regenMPValue: 5
+    speed: 2
+    attackDistance: 0.5
+    attackTimer: 1
+    cooldown: 2
+    target: {fileID: 0}
+    combatCoroutine: 0
+    inCombat: 0
+    dead: 0
   manager: {fileID: 0}
-  health: {fileID: 0}
-  mana: {fileID: 0}
-  stamina: {fileID: 0}
+  waypointList: []
+  arrivalDistance: 0.5
+  waitTime: 5
+  prefab: {fileID: 2474663958089287559}
+  respawnTime: 10
+  respawn: 1

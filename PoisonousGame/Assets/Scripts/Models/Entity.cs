@@ -36,6 +36,7 @@ public class Entity
     public float attackTimer = 1;
     public float cooldown = 2;
     public GameObject target;
-    public bool combatCoroutine;   
+    public bool combatCoroutine;
+    public bool inCombat = false;
     public bool dead = false;
 }

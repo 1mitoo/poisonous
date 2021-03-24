@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class NewBehaviourScript : MonoBehaviour
+public class ChangeScene : MonoBehaviour
 {
     public string nomeDaCena;
      
+  
     public void mudarCena()
     {
         SceneManager.LoadScene(nomeDaCena);    
@@ -15,6 +16,10 @@ public class NewBehaviourScript : MonoBehaviour
 
     public void sair()
     {
-        Application.Quit();
+        UnityEditor.EditorApplication.isPlaying = false;
+        //Application.Quit();
 	}
+
+    
+
 }

@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rb2D;
     Vector2 movement = Vector2.zero;
  
+    private DialogueControl x;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +27,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+       
+           
         input_x = Input.GetAxisRaw("Horizontal");
         input_y = Input.GetAxisRaw("Vertical");
         andando = (input_x != 0 || input_y != 0);
@@ -44,7 +47,7 @@ public class PlayerController : MonoBehaviour
             {
                 playerAnimator.SetTrigger("attack");
             }
-          
+        
     }
  
     private void FixedUpdate() {

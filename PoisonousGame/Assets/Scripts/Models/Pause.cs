@@ -3,23 +3,38 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Pause : MonoBehaviour
-{
-    public GameObject textoDoPause; 
+{   
+    private bool pause = false;
+    [SerializeField]
+    private GameObject TelaPause; 
     
+   
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Escape))
         {   
-            if(Time.timeScale == 1)
+            Pausar();         
+		}
+    }
+    public void Pausar()
+    {
+        if(pause)
             {
-                textoDoPause.SetActive(true);
-                Time.timeScale = 0;
+                pause = false;
+                Time.timeScale = 1;
+                TelaPause.SetActive(false);
 			}
             else
             {   
-                textoDoPause.SetActive(false);
-                Time.timeScale = 1;     
+                pause = true;
+                Time.timeScale = 0;   
+                TelaPause.SetActive(true);
+                
 			}
-		}
-    }
+	}
+    public void VoltarJogo()
+    {
+          TelaPause.SetActive(false);
+          Time.timeScale = 1; 
+	}
 }

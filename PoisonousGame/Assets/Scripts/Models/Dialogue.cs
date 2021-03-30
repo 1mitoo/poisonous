@@ -14,6 +14,7 @@ public class Dialogue : MonoBehaviour
 
 	private DialogueControl dialogo;
 	private bool areaDialogo;
+	
 	public void Start()
 	{
 		dialogo = FindObjectOfType<DialogueControl>();
@@ -22,14 +23,19 @@ public class Dialogue : MonoBehaviour
 	private void FixedUpdate()
 	{
 		Interact();
+		
 	}
 
 	private void Update()
 	{
+	if(dialogo.Getparalisar())
+	{	
 		if(Input.GetKeyDown(KeyCode.Space) && areaDialogo)
 		{
 			dialogo.Speech(profile, texto, nomeNpc);
+			
 		}
+	}
 	}
 	public void Interact()
 	{

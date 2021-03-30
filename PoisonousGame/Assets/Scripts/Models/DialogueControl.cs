@@ -16,15 +16,24 @@ public class DialogueControl : MonoBehaviour
     private string[] frases;
     private int index;
 
+    private bool paralisar = true;
+    
+    public bool Getparalisar()
+    {
+        return paralisar;
+	}
     public void Speech(Sprite p, string [] text, string nome)
     {
+        paralisar = false;
         dialogue.SetActive(true);  
         profile.sprite = p;
         frases = text;
         nomeNpc.text = nome;
         StartCoroutine(TypeSentence());
+        
 	}
 
+   
     IEnumerator TypeSentence()
     {
         foreach (char letras in frases[index].ToCharArray())
@@ -43,12 +52,14 @@ public class DialogueControl : MonoBehaviour
                 index++; 
                 texto.text = "";
                 StartCoroutine(TypeSentence());
+               
 			}
             else
             {
                 texto.text = "";
                 index = 0;
-                dialogue.SetActive(false);  
+                dialogue.SetActive(false); 
+                
 			}
 		}
 	}

@@ -15,8 +15,12 @@ public class DialogueControl : MonoBehaviour
     public float velocidadeTexto;
     private string[] frases;
     private int index;
-
     private bool paralisar = true;
+    
+    void start()
+    {
+       //paralisar = true;
+	}
     
     public bool Getparalisar()
     {
@@ -59,7 +63,7 @@ public class DialogueControl : MonoBehaviour
                 texto.text = "";
                 index = 0;
                 dialogue.SetActive(false); 
-                
+                paralisar = true;
 			}
 		}
 	}

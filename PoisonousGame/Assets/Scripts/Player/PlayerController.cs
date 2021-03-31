@@ -16,24 +16,28 @@ public class PlayerController : MonoBehaviour
     Vector2 movement = Vector2.zero;
  
     private DialogueControl x;
+    private bool paralisar2;
     // Start is called before the first frame update
     void Start()
     {
         andando = false; 
         rb2D = GetComponent<Rigidbody2D>(); 
         player = GetComponent<Player>();
+        x = FindObjectOfType<DialogueControl>();
     }
  
     // Update is called once per frame
     void Update()
     {
        
-           
+    if(x.Getparalisar())
+    {     
         input_x = Input.GetAxisRaw("Horizontal");
         input_y = Input.GetAxisRaw("Vertical");
         andando = (input_x != 0 || input_y != 0);
         movement = new Vector2(input_x, input_y);
- 
+    
+    
         if (andando)
         {
             playerAnimator.SetFloat("input_x", input_x);
@@ -47,7 +51,7 @@ public class PlayerController : MonoBehaviour
             {
                 playerAnimator.SetTrigger("attack");
             }
-        
+    }
     }
  
     private void FixedUpdate() {

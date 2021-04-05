@@ -16,7 +16,7 @@ public class DialogueControl : MonoBehaviour
     private string[] frases;
     private int index;
     private bool paralisar = true;
-    
+    public Player player;
     void start()
     {
        //paralisar = true;
@@ -28,13 +28,13 @@ public class DialogueControl : MonoBehaviour
 	}
     public void Speech(Sprite p, string [] text, string nome)
     {
-        paralisar = false;
-        dialogue.SetActive(true);  
-        profile.sprite = p;
-        frases = text;
-        nomeNpc.text = nome;
-        StartCoroutine(TypeSentence());
-        
+            paralisar = false;
+            dialogue.SetActive(true);  
+            profile.sprite = p;
+            frases = text;
+            nomeNpc.text = nome;
+            StartCoroutine(TypeSentence());
+        	
 	}
 
    

@@ -27,10 +27,13 @@ public class Player : MonoBehaviour
     [Header("Respawn")]
     public float respawnTime = 5;
     public GameObject prefab;
-    
-    void Start()
+    public GameObject TelaPerdeu;
+    public GameObject dialogue;
+   
+   void Start()
     {
         
+        Time.timeScale = 1;
         if(manager == null)
         {
             Debug.LogError("Você precisa anexar o game manager aqui no player");
@@ -63,14 +66,17 @@ public class Player : MonoBehaviour
     }
     private void Update()
     {
-        if (entity.dead)
-           return;
- 
+        if (entity.dead)   
+            return;
+		
         if(entity.currentHealth <= 0)
         {
            Die();
+           dialogue.SetActive(false);
+           Time.timeScale = 0;
+           TelaPerdeu.SetActive(true); 
+          
         }
- 
         health.value = entity.currentHealth;
         mana.value = entity.currentMana;
         stamina.value = entity.currentStamina;
@@ -130,23 +136,9 @@ public class Player : MonoBehaviour
         entity.target = null;
  
         StopAllCoroutines();
-        StartCoroutine(Respawn());
+      
     }
 
-    IEnumerator Respawn()
-    {
-        GetComponent<PlayerController>().enabled = false;
- 
-        yield return new WaitForSeconds(respawnTime);
- 
-        GameObject newPlayer = Instantiate(prefab, transform.position, transform.rotation, null);
-        newPlayer.name = prefab.name;
-        newPlayer.GetComponent<Player>().entity.dead = false;
-        newPlayer.GetComponent<Player>().entity.combatCoroutine = false;
-        newPlayer.GetComponent<PlayerController>().enabled = true;
- 
-        Destroy(this.gameObject);
-    }
- 
+  
 
 }

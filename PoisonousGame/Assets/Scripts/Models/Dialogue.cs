@@ -28,14 +28,14 @@ public class Dialogue : MonoBehaviour
 
 	private void Update()
 	{
-	if(dialogo.Getparalisar())
-	{	
-		if(Input.GetKeyDown(KeyCode.Space) && areaDialogo)
-		{
-			dialogo.Speech(profile, texto, nomeNpc);
+		if(dialogo.Getparalisar())
+		{	
+			if(Input.GetKeyDown(KeyCode.Space) && areaDialogo)
+			{
+				dialogo.Speech(profile, texto, nomeNpc);
 			
+			}
 		}
-	}
 	}
 	public void Interact()
 	{

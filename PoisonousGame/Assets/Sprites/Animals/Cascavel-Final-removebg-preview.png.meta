@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 030fd9ede23cd3349a479a596282075f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7658483545752759797
+    second: Cascavel-Final-removebg-preview_0
+  - first:
+      213: 2587459465410738997
+    second: Cascavel-Final-removebg-preview_1
+  - first:
+      213: -103786093666693945
+    second: Cascavel-Final-removebg-preview_2
+  - first:
+      213: 2370554621209531605
+    second: Cascavel-Final-removebg-preview_3
+  - first:
+      213: 806420038926767167
+    second: Cascavel-Final-removebg-preview_4
+  - first:
+      213: 5324316820963927982
+    second: Cascavel-Final-removebg-preview_5
+  - first:
+      213: -580041205923084543
+    second: Cascavel-Final-removebg-preview_6
+  - first:
+      213: 4801068153201289849
+    second: Cascavel-Final-removebg-preview_7
+  - first:
+      213: 2074124926826477513
+    second: Cascavel-Final-removebg-preview_8
+  - first:
+      213: 3077979959162563710
+    second: Cascavel-Final-removebg-preview_9
+  - first:
+      213: -1145155100658651221
+    second: Cascavel-Final-removebg-preview_10
+  - first:
+      213: -6032323367315453469
+    second: Cascavel-Final-removebg-preview_11
+  - first:
+      213: -7692563539022508504
+    second: Cascavel-Final-removebg-preview_12
+  - first:
+      213: -152536600495561056
+    second: Cascavel-Final-removebg-preview_13
+  - first:
+      213: 394320638591328580
+    second: Cascavel-Final-removebg-preview_14
+  - first:
+      213: 8832197621634891202
+    second: Cascavel-Final-removebg-preview_15
+  - first:
+      213: 3476728632203351860
+    second: Cascavel-Final-removebg-preview_16
+  - first:
+      213: -1654007062070962636
+    second: Cascavel-Final-removebg-preview_17
+  - first:
+      213: -106580015474667707
+    second: Cascavel-Final-removebg-preview_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 331, y: 191, z: 21, w: 121}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 252
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029b31aac997b590800000000000000
+      internalID: -7658483545752759797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7782cca088e320800000000000000
+      internalID: 2587459465410738997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 250
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc0f5209174f8ef0800000000000000
+      internalID: -103786093666693945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 252
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4dad54ed6e5e020800000000000000
+      internalID: 2370554621209531605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 252
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f349cf7b0caf03b00800000000000000
+      internalID: 806420038926767167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 191
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7213170f5c3e940800000000000000
+      internalID: 5324316820963927982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 191
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1078ddda89743f7f0800000000000000
+      internalID: -580041205923084543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae0065c02d0a240800000000000000
+      internalID: 4801068153201289849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 190
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7764bb1a5c8cc10800000000000000
+      internalID: 2074124926826477513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce7ab077e27ba20800000000000000
+      internalID: 3077979959162563710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 131
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa384d0879b10f0800000000000000
+      internalID: -1145155100658651221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9cfd8abd1e84ca0800000000000000
+      internalID: -6032323367315453469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e017cd7368e3590800000000000000
+      internalID: -7692563539022508504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6673025c412edf0800000000000000
+      internalID: -152536600495561056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 136
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44167d61888e87500800000000000000
+      internalID: 394320638591328580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 57
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf89f11f4429a70800000000000000
+      internalID: 8832197621634891202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43719ee3542df3030800000000000000
+      internalID: 3476728632203351860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d5412759cb09e0800000000000000
+      internalID: -1654007062070962636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cascavel-Final-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 60
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0a756a0a558ef0800000000000000
+      internalID: -106580015474667707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

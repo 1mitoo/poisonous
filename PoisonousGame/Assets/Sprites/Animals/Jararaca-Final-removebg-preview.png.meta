@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: dd89585319f67b449a2803e8c97b761c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5359113441288792152
+    second: Jararaca-Final-removebg-preview_0
+  - first:
+      213: 915734208956650409
+    second: Jararaca-Final-removebg-preview_1
+  - first:
+      213: -6419734078117033315
+    second: Jararaca-Final-removebg-preview_2
+  - first:
+      213: -2735027513250882534
+    second: Jararaca-Final-removebg-preview_3
+  - first:
+      213: 7256270417896702674
+    second: Jararaca-Final-removebg-preview_4
+  - first:
+      213: 2109374735094974499
+    second: Jararaca-Final-removebg-preview_5
+  - first:
+      213: -3475973025927252600
+    second: Jararaca-Final-removebg-preview_6
+  - first:
+      213: 6066128346522920021
+    second: Jararaca-Final-removebg-preview_7
+  - first:
+      213: 7462909999270082595
+    second: Jararaca-Final-removebg-preview_8
+  - first:
+      213: -1732582544181574727
+    second: Jararaca-Final-removebg-preview_9
+  - first:
+      213: -2840454726921143218
+    second: Jararaca-Final-removebg-preview_10
+  - first:
+      213: -1182073284981030182
+    second: Jararaca-Final-removebg-preview_11
+  - first:
+      213: -6934376977056215428
+    second: Jararaca-Final-removebg-preview_12
+  - first:
+      213: -1951263203665128400
+    second: Jararaca-Final-removebg-preview_13
+  - first:
+      213: -3581119278705742966
+    second: Jararaca-Final-removebg-preview_14
+  - first:
+      213: -4753666636157443386
+    second: Jararaca-Final-removebg-preview_15
+  - first:
+      213: 9180605381439673839
+    second: Jararaca-Final-removebg-preview_16
+  - first:
+      213: -6729418880780846969
+    second: Jararaca-Final-removebg-preview_17
+  - first:
+      213: -1381738220053195245
+    second: Jararaca-Final-removebg-preview_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 252
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582a03f7456f5a40800000000000000
+      internalID: 5359113441288792152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d889496755bc00800000000000000
+      internalID: 915734208956650409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 250
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a4d518ed588e6a0800000000000000
+      internalID: -6419734078117033315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 252
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd2cda7fa3b0ad0800000000000000
+      internalID: -2735027513250882534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 252
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d288ecef7373b460800000000000000
+      internalID: 7256270417896702674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 191
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32805874521064d10800000000000000
+      internalID: 2109374735094974499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 191
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88534cc03fcd2cfc0800000000000000
+      internalID: -3475973025927252600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542d6867973f2450800000000000000
+      internalID: 6066128346522920021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 190
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3283439aa15919760800000000000000
+      internalID: 7462909999270082595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3c30e0b51a4f7e0800000000000000
+      internalID: -1732582544181574727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 131
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3949a97da498d0800000000000000
+      internalID: -2840454726921143218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20a363c9e689fe0800000000000000
+      internalID: -1182073284981030182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 128
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ecae711e424cf90800000000000000
+      internalID: -6934376977056215428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034df3a5478bbe4e0800000000000000
+      internalID: -1951263203665128400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 136
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be0765dfe4d4ec0800000000000000
+      internalID: -3581119278705742966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 57
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a5336165970eb0800000000000000
+      internalID: -4753666636157443386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe550c714ff086f70800000000000000
+      internalID: 9180605381439673839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78830429e2d4c92a0800000000000000
+      internalID: -6729418880780846969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jararaca-Final-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 60
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316162dd86413dce0800000000000000
+      internalID: -1381738220053195245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

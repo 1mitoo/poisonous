@@ -8,7 +8,8 @@ public class Pause : MonoBehaviour
     [SerializeField]
     private GameObject TelaPause; 
     
-   
+    
+
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Escape))

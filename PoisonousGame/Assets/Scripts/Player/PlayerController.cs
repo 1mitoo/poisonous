@@ -29,29 +29,34 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
-    if(x.Getparalisar())
-    {     
-        input_x = Input.GetAxisRaw("Horizontal");
-        input_y = Input.GetAxisRaw("Vertical");
-        andando = (input_x != 0 || input_y != 0);
-        movement = new Vector2(input_x, input_y);
-    
-    
-        if (andando)
-        {
-            playerAnimator.SetFloat("input_x", input_x);
-            playerAnimator.SetFloat("input_y", input_y);
+        if(x.Getparalisar()==false)
+        {   
+            movement = new Vector2(0, 0);            
+            playerAnimator.SetBool("andando", false);
+          
         }
+            if(x.Getparalisar())
+            {     
+                input_x = Input.GetAxisRaw("Horizontal");
+                input_y = Input.GetAxisRaw("Vertical");
+                andando = (input_x != 0 || input_y != 0);
+                movement = new Vector2(input_x, input_y);
+    
+            }
+                if (andando)
+                {
+                    playerAnimator.SetFloat("input_x", input_x);
+                    playerAnimator.SetFloat("input_y", input_y);
+                }
  
-        playerAnimator.SetBool("andando", andando);
+                playerAnimator.SetBool("andando", andando);
  
         
-            if (Input.GetButtonDown("Fire1"))
-            {
-                playerAnimator.SetTrigger("attack");
-            }
-    }
+                    if (Input.GetButtonDown("Fire1"))
+                    {
+                        playerAnimator.SetTrigger("attack");
+                    }
+            
     }
  
     private void FixedUpdate() {

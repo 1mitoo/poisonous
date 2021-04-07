@@ -32,7 +32,7 @@ public class PlayerController : MonoBehaviour
         if(x.Getparalisar()==false)
         {   
             movement = new Vector2(0, 0);            
-            playerAnimator.SetBool("andando", false);
+            playerAnimator.SetBool(null, false);
           
         }
             if(x.Getparalisar())

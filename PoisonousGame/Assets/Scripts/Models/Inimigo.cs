@@ -13,7 +13,7 @@ public class Inimigo : MonoBehaviour
     [Header("Patrol")]
     public Transform[] waypointList;
     public float arrivalDistance = 0.5f;
-    public float waitTime = 5;
+    private float waitTime = 5;
 
     //private
     Transform targetWaypoint;

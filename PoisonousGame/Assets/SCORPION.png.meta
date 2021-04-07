@@ -1,0 +1,1928 @@
+fileFormatVersion: 2
+guid: 0bb3580adaa216a4cbd62c5a5f29d516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3619703553628116160
+    second: SCORPION_0
+  - first:
+      213: 3468443944979258580
+    second: SCORPION_1
+  - first:
+      213: 6836446681954230951
+    second: SCORPION_2
+  - first:
+      213: -1933432756601524391
+    second: SCORPION_3
+  - first:
+      213: -4404133584041395877
+    second: SCORPION_4
+  - first:
+      213: 6482061708406299960
+    second: SCORPION_5
+  - first:
+      213: 5963926329232983453
+    second: SCORPION_6
+  - first:
+      213: 5794866376181212470
+    second: SCORPION_7
+  - first:
+      213: 8952307723448091579
+    second: SCORPION_8
+  - first:
+      213: -554444768053857975
+    second: SCORPION_9
+  - first:
+      213: -734969223482711886
+    second: SCORPION_10
+  - first:
+      213: 2518846971578775779
+    second: SCORPION_11
+  - first:
+      213: -520295332557456877
+    second: SCORPION_12
+  - first:
+      213: -3116398862709138658
+    second: SCORPION_13
+  - first:
+      213: 1475516606585043718
+    second: SCORPION_14
+  - first:
+      213: 4670133143002426096
+    second: SCORPION_15
+  - first:
+      213: -4738223421008955900
+    second: SCORPION_16
+  - first:
+      213: 1481851480085015988
+    second: SCORPION_17
+  - first:
+      213: -8305503678566235574
+    second: SCORPION_18
+  - first:
+      213: 3575788983856004733
+    second: SCORPION_19
+  - first:
+      213: -5349162822502555937
+    second: SCORPION_20
+  - first:
+      213: 2299584281477837922
+    second: SCORPION_21
+  - first:
+      213: -1171505955685262548
+    second: SCORPION_22
+  - first:
+      213: 6347403943996257011
+    second: SCORPION_23
+  - first:
+      213: 2801758796663454770
+    second: SCORPION_24
+  - first:
+      213: -3662817889636324017
+    second: SCORPION_25
+  - first:
+      213: 6811952000361008534
+    second: SCORPION_26
+  - first:
+      213: -5905311946816749171
+    second: SCORPION_27
+  - first:
+      213: -2836575862898569301
+    second: SCORPION_28
+  - first:
+      213: -4811483442389929735
+    second: SCORPION_29
+  - first:
+      213: -3216721952637571022
+    second: SCORPION_30
+  - first:
+      213: -875984850830780675
+    second: SCORPION_31
+  - first:
+      213: -7923410234695531378
+    second: SCORPION_32
+  - first:
+      213: 2061259925317708527
+    second: SCORPION_33
+  - first:
+      213: 2815826767360955603
+    second: SCORPION_34
+  - first:
+      213: 133617630238047743
+    second: SCORPION_35
+  - first:
+      213: -6082251015183510010
+    second: SCORPION_36
+  - first:
+      213: 4249519554446728680
+    second: SCORPION_37
+  - first:
+      213: 6035540949682951050
+    second: SCORPION_38
+  - first:
+      213: 4057416460649790401
+    second: SCORPION_39
+  - first:
+      213: 6265166706006364458
+    second: SCORPION_40
+  - first:
+      213: 5441672812844670970
+    second: SCORPION_41
+  - first:
+      213: 4641201433038741391
+    second: SCORPION_42
+  - first:
+      213: 4305875246346264803
+    second: SCORPION_43
+  - first:
+      213: 3731815117715584680
+    second: SCORPION_44
+  - first:
+      213: -806250413656235606
+    second: SCORPION_45
+  - first:
+      213: 662671114062232225
+    second: SCORPION_46
+  - first:
+      213: -313620035967497596
+    second: SCORPION_47
+  - first:
+      213: -535853633037580318
+    second: SCORPION_48
+  - first:
+      213: 6431642840647710373
+    second: SCORPION_49
+  - first:
+      213: -1810789876275498815
+    second: SCORPION_50
+  - first:
+      213: -9171693752144124552
+    second: SCORPION_51
+  - first:
+      213: -4458923217106065998
+    second: SCORPION_52
+  - first:
+      213: -4417706500847794511
+    second: SCORPION_53
+  - first:
+      213: 4019297917470917586
+    second: SCORPION_54
+  - first:
+      213: 1749146532958666498
+    second: SCORPION_55
+  - first:
+      213: 2182686101301563249
+    second: SCORPION_56
+  - first:
+      213: -8862248759902332541
+    second: SCORPION_57
+  - first:
+      213: 168286354415753250
+    second: SCORPION_58
+  - first:
+      213: 807786944073507454
+    second: SCORPION_59
+  - first:
+      213: -6500754330295350554
+    second: SCORPION_60
+  - first:
+      213: -6364304134857896088
+    second: SCORPION_61
+  - first:
+      213: 4819985588040551654
+    second: SCORPION_62
+  - first:
+      213: -7481258382216638408
+    second: SCORPION_63
+  - first:
+      213: 9053856530575806502
+    second: SCORPION_64
+  - first:
+      213: 2926458896246176384
+    second: SCORPION_65
+  - first:
+      213: -7910975455078551592
+    second: SCORPION_66
+  - first:
+      213: -4528729548252487152
+    second: SCORPION_67
+  - first:
+      213: 5732178603999740921
+    second: SCORPION_68
+  - first:
+      213: -4215913267792667263
+    second: SCORPION_69
+  - first:
+      213: 3905052139642248476
+    second: SCORPION_70
+  - first:
+      213: -7979057531921071198
+    second: SCORPION_71
+  - first:
+      213: 2386477545080018210
+    second: SCORPION_72
+  - first:
+      213: 1963668480218344531
+    second: SCORPION_73
+  - first:
+      213: -6517921085701992523
+    second: SCORPION_74
+  - first:
+      213: -6726751140000792853
+    second: SCORPION_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SCORPION_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4193a3435cb3230800000000000000
+      internalID: 3619703553628116160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd7df2463622030800000000000000
+      internalID: 3468443944979258580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a7c34900ffde50800000000000000
+      internalID: 6836446681954230951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 173
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f69a1d6211b25e0800000000000000
+      internalID: -1933432756601524391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 171
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5938d3e6df51e2c0800000000000000
+      internalID: -4404133584041395877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 172
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d18b5c7c8e4f950800000000000000
+      internalID: 6482061708406299960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 172
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d950880f56f14c250800000000000000
+      internalID: 5963926329232983453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 172
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635e22144408b6050800000000000000
+      internalID: 5794866376181212470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 172
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30c10717cfc3c70800000000000000
+      internalID: 8952307723448091579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 172
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417398cb673e48f0800000000000000
+      internalID: -554444768053857975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 172
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e771a26ddcc5f0800000000000000
+      internalID: -734969223482711886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 172
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87588a9fdb4f220800000000000000
+      internalID: 2518846971578775779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 172
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7e94d62a87c8f0800000000000000
+      internalID: -520295332557456877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 172
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5ac9eeb350c4d0800000000000000
+      internalID: -3116398862709138658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 172
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf0bb39861a7410800000000000000
+      internalID: 1475516606585043718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 172
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa2072a955afc040800000000000000
+      internalID: 4670133143002426096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406335c17e27e3eb0800000000000000
+      internalID: -4738223421008955900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 133
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdaa58e118909410800000000000000
+      internalID: 1481851480085015988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a420c56a86cecbc80800000000000000
+      internalID: -8305503678566235574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7efd7ea221cf9130800000000000000
+      internalID: 3575788983856004733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde520701c4f3c5b0800000000000000
+      internalID: -5349162822502555937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 133
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264fe8468b3c9ef10800000000000000
+      internalID: 2299584281477837922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 133
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b102b4a89fdbfe0800000000000000
+      internalID: -1171505955685262548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 133
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27fcfc142861850800000000000000
+      internalID: 6347403943996257011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 130
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c737df7c8d1e620800000000000000
+      internalID: 2801758796663454770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 131
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de74b298e0b2dc0800000000000000
+      internalID: -3662817889636324017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 131
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8788c04ae88e50800000000000000
+      internalID: 6811952000361008534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 131
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810e12721e1c0ea0800000000000000
+      internalID: -5905311946816749171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 131
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcb71184572a8d0800000000000000
+      internalID: -2836575862898569301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 131
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0bcad2d4d2a3db0800000000000000
+      internalID: -4811483442389929735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 131
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23036df4d68eb53d0800000000000000
+      internalID: -3216721952637571022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 130
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69b995b60e7d3f0800000000000000
+      internalID: -875984850830780675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84474f1f546a0290800000000000000
+      internalID: -7923410234695531378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 93
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea6f462bf01b9c10800000000000000
+      internalID: 2061259925317708527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41699a683d31720800000000000000
+      internalID: 2815826767360955603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 92
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd711ad684bad100800000000000000
+      internalID: 133617630238047743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6065a354de0879ba0800000000000000
+      internalID: -6082251015183510010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 92
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed9fd4158359fa30800000000000000
+      internalID: 4249519554446728680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831d2d148c82c350800000000000000
+      internalID: 6035540949682951050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 92
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb7ada16c6de4830800000000000000
+      internalID: 4057416460649790401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 92
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211d12cce752f650800000000000000
+      internalID: 6265166706006364458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 92
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd1819794b48b40800000000000000
+      internalID: 5441672812844670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 91
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fde4bfc1cd86040800000000000000
+      internalID: 4641201433038741391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_43
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 91
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ed9919ba81cb30800000000000000
+      internalID: 4305875246346264803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 92
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6bedad3121ac330800000000000000
+      internalID: 3731815117715584680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 91
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1220e358f9fc4f0800000000000000
+      internalID: -806250413656235606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_46
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 92
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa77940ed7423900800000000000000
+      internalID: 662671114062232225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_47
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 92
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a46b92d3cc5abf0800000000000000
+      internalID: -313620035967497596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74137b5f34098f0800000000000000
+      internalID: -535853633037580318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6bdf65619c14950800000000000000
+      internalID: 6431642840647710373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0b9b59338ced6e0800000000000000
+      internalID: -1810789876275498815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a7ca402997b080800000000000000
+      internalID: -9171693752144124552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a6ab55f8be12c0800000000000000
+      internalID: -4458923217106065998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 52
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6880fe75721b2c0800000000000000
+      internalID: -4417706500847794511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 52
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d34259292a67c730800000000000000
+      internalID: 4019297917470917586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 52
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7b1d1187364810800000000000000
+      internalID: 1749146532958666498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 53
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f034cd1757a4e10800000000000000
+      internalID: 2182686101301563249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_57
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 52
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38910e205b7f20580800000000000000
+      internalID: -8862248759902332541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 52
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2281f773c8fd55200800000000000000
+      internalID: 168286354415753250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_59
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 53
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7223bf12f5d53b00800000000000000
+      internalID: 807786944073507454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 53
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac9aa016ea8c5a0800000000000000
+      internalID: -6500754330295350554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_61
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 53
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fce3fdb137da7a0800000000000000
+      internalID: -6364304134857896088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 53
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc8adda5704e240800000000000000
+      internalID: 4819985588040551654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_63
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 54
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305017832b3d2890800000000000000
+      internalID: -7481258382216638408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62052509b82c5ad70800000000000000
+      internalID: 9053856530575806502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af8807cdedc9820800000000000000
+      internalID: 2926458896246176384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df653ddcb1963290800000000000000
+      internalID: -7910975455078551592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01268985878b621c0800000000000000
+      internalID: -4528729548252487152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3cf78e11acc8f40800000000000000
+      internalID: 5732178603999740921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9c5548311e75c0800000000000000
+      internalID: -4215913267792667263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d51cc2b38813630800000000000000
+      internalID: 3905052139642248476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_71
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 11
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a380771371b44190800000000000000
+      internalID: -7979057531921071198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 11
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d0f2eea87e1120800000000000000
+      internalID: 2386477545080018210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 11
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cab0c241a504b10800000000000000
+      internalID: 1963668480218344531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_74
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 8
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf44b45e41bb85a0800000000000000
+      internalID: -6517921085701992523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SCORPION_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 162
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee7ccf5a77c5a2a0800000000000000
+      internalID: -6726751140000792853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

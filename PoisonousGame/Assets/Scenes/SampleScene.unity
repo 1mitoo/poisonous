@@ -376,8 +376,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 63.5, y: -25.2}
-  m_SizeDelta: {x: 351.1994, y: 98.77977}
+  m_AnchoredPosition: {x: 27.112, y: -30.489}
+  m_SizeDelta: {x: 424.00903, y: 179.04614}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &88525279
 CanvasRenderer:
@@ -707,6 +707,96 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 167553322}
   m_CullTransparentMesh: 0
+--- !u!1 &224617635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224617636}
+  m_Layer: 0
+  m_Name: Waypoint 2 AA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &224617636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224617635}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2, y: 2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1990102528}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &231791972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 231791973}
+  m_Layer: 0
+  m_Name: Waypoint 1 C
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &231791973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 231791972}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7, y: 2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1852795676}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &266196106
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 266196107}
+  m_Layer: 0
+  m_Name: Waypoint 2 J
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &266196107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 266196106}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7, y: 2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1109232388}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &415245001
 GameObject:
   m_ObjectHideFlags: 0
@@ -12957,8 +13047,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.54688764}
-  m_AnchoredPosition: {x: -94.1, y: 45.888}
-  m_SizeDelta: {x: 289.93417, y: 43.3963}
+  m_AnchoredPosition: {x: -148.36, y: 88.241}
+  m_SizeDelta: {x: 296.71146, y: 43.39633}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &825145574
 CanvasRenderer:
@@ -13166,6 +13256,36 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &877211482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 877211483}
+  m_Layer: 0
+  m_Name: Waypoint 2 E
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &877211483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 877211482}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6, y: -4, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1066679804}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &962115818
 GameObject:
   m_ObjectHideFlags: 0
@@ -13240,6 +13360,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962115818}
   m_CullTransparentMesh: 0
+--- !u!1 &973367268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 973367269}
+  m_Layer: 0
+  m_Name: Waypoint 1 AA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &973367269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973367268}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1990102528}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &980626203
 GameObject:
   m_ObjectHideFlags: 0
@@ -13427,8 +13577,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 18.1, y: 152}
-  m_SizeDelta: {x: 519.27747, y: 177.12534}
+  m_AnchoredPosition: {x: 77.9, y: 187.1}
+  m_SizeDelta: {x: 629.54333, y: 247.33017}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &1012917242
 SpriteRenderer:
@@ -13525,6 +13675,70 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TelaPause: {fileID: 27910444}
+--- !u!1 &1066679803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1066679804}
+  m_Layer: 0
+  m_Name: "Escorpi\xE3o Waypoint"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1066679804
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066679803}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.743205, y: 1.79, z: -0.3940665}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1392413695}
+  - {fileID: 877211483}
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1109232387
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1109232388}
+  m_Layer: 0
+  m_Name: 'Jararaca Waypoint '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1109232388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109232387}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.743205, y: 1.79, z: -0.3940665}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1823431523}
+  - {fileID: 266196107}
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1127695865
 GameObject:
   m_ObjectHideFlags: 0
@@ -16002,6 +16216,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1376501805}
   m_CullTransparentMesh: 0
+--- !u!1 &1392413694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1392413695}
+  m_Layer: 0
+  m_Name: Waypoint 1 E
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1392413695
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1392413694}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1066679804}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1399466706
 GameObject:
   m_ObjectHideFlags: 0
@@ -16034,98 +16278,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1403705189
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1c351a78c0c1d74f974a6d60a8c9848, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  profile: {fileID: -7459914941885502680, guid: f0ae39c427746404384a9739205f4b9e,
-    type: 3}
-  texto:
-  - "Meng\xE3o campe\xE3o"
-  - Palmeiras sem mundial!
-  nomeNpc: Aranha-Armadeira
-  playerLayer:
-    serializedVersion: 2
-    m_Bits: 256
-  radious: 1.5
---- !u!114 &1403705190
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4451d6c87eb353f469f5bcff4284bfaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1403881659
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aafdbc9b96c6c424499a544b9441c97d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  entity:
-    name: Aranha
-    currentHealth: 100
-    maxHealth: 100
-    currentMana: 100
-    maxMana: 100
-    currentStamina: 100
-    maxStamina: 100
-    strength: 1
-    resistence: 1
-    intelligence: 1
-    forcaVontade: 1
-    damage: 5
-    defense: 1
-    speed: 2
-    attackDistance: 0.5
-    attackTimer: 1
-    cooldown: 2
-    target: {fileID: 0}
-    combatCoroutine: 0
-    inCombat: 0
-    dead: 0
-  manager: {fileID: 0}
-  waypointList:
-  - {fileID: 1303847628}
-  - {fileID: 1571493476}
-  arrivalDistance: 35
-  prefab: {fileID: 2474663958189295351}
-  respawnTime: 10
-  respawn: 1
---- !u!70 &1403881660
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.8, y: 1.8}
-  m_Direction: 0
 --- !u!1 &1430842506
 GameObject:
   m_ObjectHideFlags: 0
@@ -16535,8 +16687,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 156.35, y: -39.59}
-  m_SizeDelta: {x: 130.5564, y: 45.42279}
+  m_AnchoredPosition: {x: 267.92, y: -97.301}
+  m_SizeDelta: {x: 57.606766, y: 45.422516}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1508028563
 MonoBehaviour:
@@ -17037,8 +17189,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -186, y: -25.2}
-  m_SizeDelta: {x: 87.27258, y: 74.19006}
+  m_AnchoredPosition: {x: -240.4, y: -55.517}
+  m_SizeDelta: {x: 98.91803, y: 111.03351}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1600221548
 CanvasRenderer:
@@ -18340,6 +18492,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1801842740}
   m_CullTransparentMesh: 0
+--- !u!1 &1823431522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1823431523}
+  m_Layer: 0
+  m_Name: Waypoint 1 J
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1823431523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823431522}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3, y: 4, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1109232388}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1827734763
 GameObject:
   m_ObjectHideFlags: 0
@@ -18414,6 +18596,38 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1827734763}
   m_CullTransparentMesh: 0
+--- !u!1 &1852795675
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1852795676}
+  m_Layer: 0
+  m_Name: Cascavel Waypoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1852795676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852795675}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.743205, y: 1.79, z: -0.3940665}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 231791973}
+  - {fileID: 1942566949}
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1896758467
 GameObject:
   m_ObjectHideFlags: 0
@@ -21675,6 +21889,36 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1942566948
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1942566949}
+  m_Layer: 0
+  m_Name: Waypoint 2 C
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1942566949
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942566948}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2, y: 3.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1852795676}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1959251966
 GameObject:
   m_ObjectHideFlags: 0
@@ -52080,6 +52324,38 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!1 &1990102527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1990102528}
+  m_Layer: 0
+  m_Name: 'Aranha-Armadeira Waypoint '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1990102528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990102527}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.743205, y: 1.79, z: -0.3940665}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 973367269}
+  - {fileID: 224617636}
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2037958888
 GameObject:
   m_ObjectHideFlags: 0
@@ -52149,7 +52425,7 @@ MonoBehaviour:
   profile: {fileID: 1600221549}
   texto: {fileID: 88525280}
   nomeNpc: {fileID: 825145575}
-  velocidadeTexto: 0.05
+  velocidadeTexto: 0.0005
   player: {fileID: 0}
 --- !u!4 &2071683646
 Transform:
@@ -52201,142 +52477,114 @@ RectTransform:
   m_AnchoredPosition: {x: 207.6, y: -118.2}
   m_SizeDelta: {x: 415.20886, y: 236.40656}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!4 &521871436210348360
-Transform:
+--- !u!1001 &718530409938099493
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.95, y: -0.18, z: 0}
-  m_LocalScale: {x: 1.1960795, y: 1.6971481, z: 0.18592303}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &947217268636296935
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 0.53}
-    newSize: {x: 0.390625, y: 0.703125}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.390625, y: 0.703125}
-  m_EdgeRadius: 0
---- !u!212 &1388556737143028638
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 3
-  m_Sprite: {fileID: -7459914941885502680, guid: f0ae39c427746404384a9739205f4b9e,
-    type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.390625, y: 0.703125}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!50 &2297058004142918738
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
---- !u!1 &2474663958189295351
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7687601743251277949}
-  - component: {fileID: 1388556737143028638}
-  - component: {fileID: 5267927284051013195}
-  - component: {fileID: 8246403548149917031}
-  - component: {fileID: 947217268636296935}
-  - component: {fileID: 1403881660}
-  - component: {fileID: 1403881659}
-  - component: {fileID: 1403705189}
-  - component: {fileID: 1403705190}
-  m_Layer: 0
-  m_Name: Aranha-armadeira
-  m_TagString: Inimigo
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 718530408634946974, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: waypointList.Array.data[0]
+      value: 
+      objectReference: {fileID: 973367269}
+    - target: {fileID: 718530408634946974, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: waypointList.Array.data[1]
+      value: 
+      objectReference: {fileID: 224617636}
+    - target: {fileID: 718530408635419200, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: texto.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 718530408635419200, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: texto.Array.data[0]
+      value: "A aranha armadeira recebe esse nome devido a sua t\xE1tica de ataque
+        e defesa. Quando acuada, ela n\xE3o costuma fugir, mas cria uma estrat\xE9gia
+        para avan\xE7ar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 718530408635419200, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: texto.Array.data[1]
+      value: 'Os ataques da aranha armadeira geralmente ocorrem no amanhecer ou ao
+        entardecer. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 718530408635419200, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: texto.Array.data[2]
+      value: "A aranha armadeira est\xE1 na segunda coloca\xE7\xE3o entre as aranhas
+        que mais causam acidentes no Brasil, ficando atr\xE1s da aranha marrom.  "
+      objectReference: {fileID: 0}
+    - target: {fileID: 718530408635419200, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: texto.Array.data[3]
+      value: "O veneno da armadeira \xE9 mais veloz do que o de boa parte das serpentes. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 3147873597670349778, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_Name
+      value: Aranha-armadeira
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7158298537124926808, guid: 187c5b23394cb3f4d873c71dcbf64a2b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 187c5b23394cb3f4d873c71dcbf64a2b, type: 3}
 --- !u!1001 &2570668832736585179
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52353,18 +52601,47 @@ PrefabInstance:
         type: 3}
       propertyPath: waypointList.Array.data[0]
       value: 
-      objectReference: {fileID: 1303847628}
+      objectReference: {fileID: 1823431523}
     - target: {fileID: 507091375508189800, guid: b10ad27f0629b8b4683a1eaaa2b17278,
         type: 3}
       propertyPath: waypointList.Array.data[1]
       value: 
-      objectReference: {fileID: 1571493476}
+      objectReference: {fileID: 266196107}
     - target: {fileID: 1462728790652961101, guid: b10ad27f0629b8b4683a1eaaa2b17278,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 915734208956650409, guid: dd89585319f67b449a2803e8c97b761c,
         type: 3}
+    - target: {fileID: 2570668831244996776, guid: b10ad27f0629b8b4683a1eaaa2b17278,
+        type: 3}
+      propertyPath: texto.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2570668831244996776, guid: b10ad27f0629b8b4683a1eaaa2b17278,
+        type: 3}
+      propertyPath: playerLayer.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 2570668831244996776, guid: b10ad27f0629b8b4683a1eaaa2b17278,
+        type: 3}
+      propertyPath: texto.Array.data[0]
+      value: "A jararaca \xE9 uma serpente pe\xE7onhenta encontrada em v\xE1rias
+        \xE1reas da Am\xE9rica do Sul e, inclusive, respons\xE1vel pela maioria dos
+        acidentes com cobras no Brasil."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2570668831244996776, guid: b10ad27f0629b8b4683a1eaaa2b17278,
+        type: 3}
+      propertyPath: texto.Array.data[1]
+      value: "O veneno dessa esp\xE9cie \xE9 extremamente letal para humanos e animais
+        dom\xE9sticos. Assim, qualquer mordida gera uma necessidade urgente de cuidados
+        m\xE9dicos."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2570668831244996776, guid: b10ad27f0629b8b4683a1eaaa2b17278,
+        type: 3}
+      propertyPath: texto.Array.data[2]
+      value: " Assim, qualquer mordida gera uma necessidade urgente de cuidados m\xE9dicos."
+      objectReference: {fileID: 0}
     - target: {fileID: 2692670068666154020, guid: b10ad27f0629b8b4683a1eaaa2b17278,
         type: 3}
       propertyPath: m_Name
@@ -52388,12 +52665,12 @@ PrefabInstance:
     - target: {fileID: 7901097038359786158, guid: b10ad27f0629b8b4683a1eaaa2b17278,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.74
+      value: 8.09
       objectReference: {fileID: 0}
     - target: {fileID: 7901097038359786158, guid: b10ad27f0629b8b4683a1eaaa2b17278,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.1
+      value: 5.48
       objectReference: {fileID: 0}
     - target: {fileID: 7901097038359786158, guid: b10ad27f0629b8b4683a1eaaa2b17278,
         type: 3}
@@ -52437,25 +52714,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b10ad27f0629b8b4683a1eaaa2b17278, type: 3}
---- !u!95 &2633121115582875518
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6f39c9661ba054343b49426e0d88fbbf, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &2685842353866367070
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52560,18 +52818,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 2685842353866367070}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &2685842353866367072
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2685842353866367071}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4451d6c87eb353f469f5bcff4284bfaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &2685842353866367073
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52586,11 +52832,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   profile: {fileID: 4393681425744146923, guid: 7eb9c9f9ffe95434da3006ceaa425526, type: 3}
   texto:
-  - "Meng\xE3o campe\xE3o"
-  - Palmeiras sem mundial
-  - "Juliete campe\xE3 do BBB"
-  - SAFASFAFZ
-  - GDSGASG
+  - "As vi\xFAvas negras podem ser encontradas em pequenos arbustos em teias constru\xEDdas
+    de forma irregular. "
+  - "Vivem em climas temperados \xE0 quente e normalmente n\xE3o s\xE3o agressivas."
+  - "Seu veneno tem a\xE7\xE3o neurot\xF3xica, ou seja, a toxina atinge e danifica
+    o sistema nervoso da v\xEDtima. \n"
+  - "O tratamento s\xF3 se d\xE1 atrav\xE9s da aplica\xE7\xE3o de um soro espec\xEDfico
+    anti-Latrodectus.  "
+  - "Os principais predadores das aranhas s\xE3o os sapos, p\xE1ssaros e lagartixas. "
   nomeNpc: Aranha
   playerLayer:
     serializedVersion: 2
@@ -52742,201 +52991,117 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d0edb6de33fe0f4795bd621fd5f4678, type: 3}
---- !u!95 &5267927284051013195
-Animator:
-  serializedVersion: 3
+--- !u!1001 &6143777406438387164
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 588c39d4617781c45bab3ede63e63a69, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!1 &5748303424974417858
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 521871436210348360}
-  - component: {fileID: 9139196444777222827}
-  - component: {fileID: 2633121115582875518}
-  - component: {fileID: 2297058004142918738}
-  - component: {fileID: 6968448880987443154}
-  - component: {fileID: 7895327193184248201}
-  - component: {fileID: 7895327193184248206}
-  - component: {fileID: 5748303424974417860}
-  - component: {fileID: 5748303424974417859}
-  m_Layer: 0
-  m_Name: "Escorpi\xE3o"
-  m_TagString: Inimigo
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &5748303424974417859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4451d6c87eb353f469f5bcff4284bfaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &5748303424974417860
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1c351a78c0c1d74f974a6d60a8c9848, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  profile: {fileID: 5794866376181212470, guid: c40747507574b3246a5a5ae24f97f1a6, type: 3}
-  texto:
-  - "Meng\xE3o campe\xE3o"
-  - Palmeiras sem mundial!
-  nomeNpc: Aranha-Armadeira
-  playerLayer:
-    serializedVersion: 2
-    m_Bits: 256
-  radious: 1.5
---- !u!61 &6968448880987443154
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.24, y: 0.14}
-    newSize: {x: 0.390625, y: 0.703125}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.390625, y: 0.703125}
-  m_EdgeRadius: 0
---- !u!4 &7687601743251277949
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.43, y: -2.4, z: 0}
-  m_LocalScale: {x: 0.38718194, y: 0.5105161, z: 0.18592303}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &7895327193184248201
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.8, y: 1.8}
-  m_Direction: 0
---- !u!114 &7895327193184248206
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aafdbc9b96c6c424499a544b9441c97d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  entity:
-    name: Aranha
-    currentHealth: 100
-    maxHealth: 100
-    currentMana: 100
-    maxMana: 100
-    currentStamina: 100
-    maxStamina: 100
-    strength: 1
-    resistence: 1
-    intelligence: 1
-    forcaVontade: 1
-    damage: 5
-    defense: 1
-    speed: 2
-    attackDistance: 0.5
-    attackTimer: 1
-    cooldown: 2
-    target: {fileID: 0}
-    combatCoroutine: 0
-    inCombat: 0
-    dead: 0
-  manager: {fileID: 0}
-  waypointList:
-  - {fileID: 1303847628}
-  - {fileID: 1571493476}
-  arrivalDistance: 40
-  prefab: {fileID: 5748303424974417858}
-  respawnTime: 10
-  respawn: 1
---- !u!50 &8246403548149917031
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2474663958189295351}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1910940773832344088, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: texto.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1910940773832344088, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: texto.Array.data[0]
+      value: "\xC9 uma esp\xE9cie de escorpi\xE3o do Leste e Centro do Brasil. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 1910940773832344088, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: texto.Array.data[1]
+      value: "Mede 6 cm de comprimento, tem colora\xE7\xE3o muito escura e patas
+        castanhas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1910940773832344088, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: texto.Array.data[2]
+      value: "O seu veneno \xE9 neurot\xF3xico, ou seja, age sobre o sistema nervoso. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 1910940773832344088, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: texto.Array.data[3]
+      value: "Seu veneno \xE9 menos potente do que o do escorpi\xE3o-amarelo"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1910940773832344088, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: texto.Array.data[4]
+      value: "O tratamento da picada \xE9 sintom\xE1tico e pode ser feito utilizando-se
+        soro antiescorpi\xF4nico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1910940773832344094, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_Name
+      value: "Escorpi\xE3o"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094549691934313554, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: waypointList.Array.data[0]
+      value: 
+      objectReference: {fileID: 1392413695}
+    - target: {fileID: 4094549691934313554, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: waypointList.Array.data[1]
+      value: 
+      objectReference: {fileID: 877211483}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5943936007193300116, guid: 0ae85eea4d34f3a4186477848de21fa4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0ae85eea4d34f3a4186477848de21fa4, type: 3}
 --- !u!1001 &8249299777103240432
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52963,12 +53128,12 @@ PrefabInstance:
         type: 3}
       propertyPath: waypointList.Array.data[0]
       value: 
-      objectReference: {fileID: 1303847628}
+      objectReference: {fileID: 231791973}
     - target: {fileID: 2640610514815224951, guid: 45168855b72948a40aba98d46a1b83e4,
         type: 3}
       propertyPath: waypointList.Array.data[1]
       value: 
-      objectReference: {fileID: 1571493476}
+      objectReference: {fileID: 1942566949}
     - target: {fileID: 4026343116015812434, guid: 45168855b72948a40aba98d46a1b83e4,
         type: 3}
       propertyPath: m_Sprite
@@ -52993,12 +53158,12 @@ PrefabInstance:
     - target: {fileID: 5623461341013347505, guid: 45168855b72948a40aba98d46a1b83e4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.22
+      value: -1.33
       objectReference: {fileID: 0}
     - target: {fileID: 5623461341013347505, guid: 45168855b72948a40aba98d46a1b83e4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.01
+      value: 3.97
       objectReference: {fileID: 0}
     - target: {fileID: 5623461341013347505, guid: 45168855b72948a40aba98d46a1b83e4,
         type: 3}
@@ -53068,62 +53233,14 @@ MonoBehaviour:
   profile: {fileID: -2735027513250882534, guid: dd89585319f67b449a2803e8c97b761c,
     type: 3}
   texto:
-  - "ASFGKJSAGNGSDJGKSGN\t"
-  - "ASFGASGOLASG\t"
-  - ASFGASGASGSGMAGS
+  - " A cascavel \xE9 uma cobra pe\xE7onhenta, sendo seu veneno muito potente."
+  - " Possuem cor marrom escuro com presen\xE7a de an\xE9is claros e finos. A cor
+    \xE9 um recurso que favorece a camuflagem destas cobras.\t"
+  - "A sua caracter\xEDstica mais marcante \xE9 o seu guiso. "
+  - "Utilizando principalmente quando se sente amea\xE7ada, produzindo um som caracter\xEDstico
+    deste animal."
   nomeNpc: Cascavel
   playerLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   radious: 2
---- !u!212 &9139196444777222827
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5748303424974417858}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 3
-  m_Sprite: {fileID: -1171505955685262548, guid: 7c512fa4b42fd2942a4514adf77e38a2,
-    type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.390625, y: 0.703125}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
